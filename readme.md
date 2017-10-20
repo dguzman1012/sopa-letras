@@ -40,6 +40,8 @@ npm run dev
 
 This repository is a pre-configured project structure taken from Laravel. This project is about to check the occurence of the 'OIE' word inside multiples Alphabet soups.
 
+![home](https://user-images.githubusercontent.com/5767551/31802053-000e6b14-b51a-11e7-9f97-04fe96716d24.png)
+
 ## Unit Test
 
 In order to make http call tests, just run the below command:
@@ -52,3 +54,4 @@ In order to make http call tests, just run the below command:
 
 Insert all alphabet soups into the textarea and click on the "calcular" button.
 
+![input](https://user-images.githubusercontent.com/5767551/31802047-f397374e-b519-11e7-95ec-b2b8d1bc6fc7.png)
